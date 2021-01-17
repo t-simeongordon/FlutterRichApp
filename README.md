@@ -1,0 +1,2 @@
+# FlutterRichApp
+Flutter rich app
